@@ -1,7 +1,11 @@
 # Deep_Learning_CNN
 
-Simple Network for keras datasets- fashion_mnist 
-60000 train images , 10000 test images
+Simple Network for keras datasets- fashion_mnist   
+
+
+60000 train images 10000 test images
+
+
 It has 10 categories and we built a simple network with few layers
 and checking for only small fetures:
 
